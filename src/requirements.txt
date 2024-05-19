@@ -1,0 +1,7 @@
+discord_py_interactions==5.12.1
+genshin==1.6.3
+honkairail==1.1.4
+hsrcard==1.0.3
+httpx==0.27.0
+peewee==3.17.5
+Pillow==10.3.0
